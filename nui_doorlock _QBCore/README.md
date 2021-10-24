@@ -4,11 +4,6 @@ A fork of esx_doorlock, featuring improved performance and improved functionalit
 <img src='https://i.imgur.com/F7fzgYN.png'></img></p>
 <hr>
 
-<h3 align='center'>For more support or to see more of my resources you can join my <a href='https://discord.gg/hmcmv3P7YW'>discord</a></h3>
-<p align='center'>
-<a href="https://www.buymeacoffee.com/thelindat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
 * Easily add and configure new doors! <a href='https://streamable.com/e290wk'>Example video</a>  
 Use the `/newdoor` command to automatically create a new entry on the DoorList.  
 
@@ -64,5 +59,4 @@ This program Is free software: you can redistribute it And/Or modify it under th
 
 This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
-<hr>
+
